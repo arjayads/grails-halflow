@@ -5,8 +5,7 @@
 // You're free to add application-wide JavaScript to this file, but it's generally better 
 // to create separate JavaScript files as needed. 
 //
-//= require_tree . 
-//= require_tree ../diverso
+//= require jquery
 //= require_self
 
 if (typeof jQuery !== 'undefined') {
